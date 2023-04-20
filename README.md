@@ -1,6 +1,6 @@
 # midi_bluetooth
 
-A new Flutter project.
+Projeto para conexao bluetooth para envio de comandos a dispositivos midi. 
 
 ## Getting Started
 
